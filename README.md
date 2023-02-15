@@ -1,1 +1,3 @@
-# cli_color_messages_python
+# CLI Color Messages for Python
+
+Color messages for the command line interface.
